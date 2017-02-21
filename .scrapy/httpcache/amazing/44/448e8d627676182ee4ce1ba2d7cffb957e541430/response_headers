@@ -1,0 +1,8 @@
+Content-Encoding: gzip
+Set-Cookie: ci_session=a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%224e412711d6cad9e9ab6de73f45d2a3d6%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A14%3A%22150.237.127.16%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A33%3A%22Scrapy%2F1.0.3+%28%2Bhttp%3A%2F%2Fscrapy.org%29%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1487714188%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7D73501d7cc27d79b57c8a851f9144c203; expires=Thu, 21-Feb-2019 21:56:28 GMT; Max-Age=63072000; path=/
+Set-Cookie: ci_session=a%3A6%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%224e412711d6cad9e9ab6de73f45d2a3d6%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A14%3A%22150.237.127.16%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A33%3A%22Scrapy%2F1.0.3+%28%2Bhttp%3A%2F%2Fscrapy.org%29%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1487714188%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3Bs%3A4%3A%22lang%22%3Bs%3A2%3A%22en%22%3B%7De6408fb41e6ae4eb4af8366c39cd0695; expires=Thu, 21-Feb-2019 21:56:28 GMT; Max-Age=63072000; path=/
+X-Powered-By: PHP/5.6.29-0+deb8u1
+Vary: Accept-Encoding
+Server: nginx
+Date: Tue, 21 Feb 2017 21:56:28 GMT
+Content-Type: text/html; charset=UTF-8
